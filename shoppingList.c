@@ -1,3 +1,8 @@
+//The program asks user for the amount of money. IN the input.txt file the informatin about desired products,it's amount and price per object is stated. 
+// Program calculates how much of what you can buy (according to the priority) and outputs those products to output.txt
+//The products that you cannot afford it outputs to the screen.
+//"The priority" means that those products that are on the top in the input.txt file will be favored
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
