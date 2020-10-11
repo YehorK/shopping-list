@@ -1,0 +1,12 @@
+egg 30 0.095
+yogurt 3 1.05
+cheese 4 2.5
+onion 5 0.10
+banana 10 0.2
+milk 2 0.5
+carrot 7 0.2
+socks 2 1.75
+hat 1 5
+toy 5 5.5
+car 1 20000
+house 1 150000

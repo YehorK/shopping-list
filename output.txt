@@ -1,0 +1,4 @@
+Product Name: egg
+Amount: 10
+Product Price: 0.095000
+
